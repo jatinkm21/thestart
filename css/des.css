@@ -1,0 +1,80 @@
+.im{
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+h1,h2{
+    color:white;
+    text-align: center;
+    margin: 1%;   
+}
+h1{
+    font-size: 250%;
+}
+
+div{    
+    color:white;
+    font-size: 100%;   
+}
+input,textarea,option{
+    width: 27%; 
+    margin: 3px;
+    padding: 2px;
+    border: 2px solid gray;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+#name{
+    margin-left: 74px;
+}
+#age{
+    margin-left: 88px;
+}
+#email{
+    margin-left: 73px;;
+}
+#mobile{
+    margin-left: 6px;
+}
+#goal{
+    margin-left: 81px;
+}
+button{
+margin-left: 27%;
+background-color: red;
+color: white;
+border-radius: 4ch;
+padding: 1ch 3ch;
+cursor: pointer;
+border-color: black;
+}
+button:hover{
+background-color:darkred;
+}
+
+form {
+margin-top: 26%;
+margin-left: 31%;    
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 26px;     
+}
+nav{
+    
+    background-color: gold;
+   
+}
+a:hover{
+color:white;
+}
+p{
+    color: gold;
+    font-size: 200%;
+    text-align: center;
+}
+
